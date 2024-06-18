@@ -1,4 +1,4 @@
-package rohan;
+package rohan.basic;
 
 import java.util.Scanner;
 
